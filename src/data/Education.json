@@ -1,0 +1,20 @@
+[
+  {
+    "CollegeName": "Shree L R Tiwari College Of Engineering",
+    "duration": "2020-2024",
+    "field": "B.E - Electronics And Computer Science",
+    "percentage":"83%"
+  },
+  {
+    "CollegeName": "N G k Gokhale High School",
+    "duration": "2018-2020",
+    "field": "H.S.C - Science",
+    "percentage": "70.46%"
+  },
+  {
+    "CollegeName": "L.S Vidyalaya ",
+    "duration": "2017-2018",
+    "field": "S.S.C",
+    "percentage": "89.40%"
+  }
+]

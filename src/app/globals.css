@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Path: src/app/App.css */
+
+@layer apply {
+  body {
+    @apply font-primary bg-primary text-white leading-loose;
+  }
+}
