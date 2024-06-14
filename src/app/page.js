@@ -10,7 +10,7 @@ const Home = () => {
       <div className="flex h-full px-5 py-5 flex-col w-full md:flex-row  gap-2  justify-between  ">
         <div className=" flex-1 w-full   md:order-none order-2 md:w-3/5  space-y-2  flex justify-center flex-col items-start sm:text-start">
           <h1 className="text-5xl text-center md:text-start w-full  font-bold  ">
-            Hello I'm{" "}
+            Hello I&apos;m{" "}
           </h1>
           <h3 className="text-4xl  md:text-start text-center font-bold w-full  text-accent-Default pb-2">
             Chinmay Ghadigaonkar<span className="text-xl">.</span>
