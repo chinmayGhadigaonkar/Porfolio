@@ -18,8 +18,8 @@ export const MobileNav = () => {
     },
     {
       id: 3,
-      name: "Works",
-      link: "/works",
+      name: "Projects",
+      link: "/project",
     },
     {
       id: 4,

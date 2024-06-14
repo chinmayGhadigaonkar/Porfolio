@@ -14,13 +14,13 @@ const Social = () => {
       <Link
         target="_blank"
         className=" px-1 py-1 h-9 border rounded-full border-accent-Default text-accent-Default hover:bg-accent-Default hover:text-primary"
-        href="">
+        href="https://x.com/ChinmayGhadiga1">
         <FiTwitter className="text-1xl px-1  " />
       </Link>
       <Link
         target="_blank"
         className=" px-1 py-1 h-9  border rounded-full border-accent-Default text-accent-Default hover:bg-accent-Default hover:text-primary"
-        href="">
+        href="https://github.com/chinmayGhadigaonkar">
         <FiGithub className="text-1xl px-1   " />
       </Link>
       <Link
