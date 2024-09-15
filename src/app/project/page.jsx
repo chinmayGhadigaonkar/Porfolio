@@ -9,7 +9,7 @@ const Projects = () => {
     {
       img: "/image/EcommerceStore.png",
       title: "E-commerce Store",
-      description: "A full stack e-commerce store with payment gateway",
+      description: "A full stack E-commerce store",
       stack: "MERN Stack",
       github: "https://github.com/chinmayGhadigaonkar/E-Commerce-Store",
       live: "",
@@ -17,15 +17,15 @@ const Projects = () => {
     {
       img: "/image/ChatApp.png",
       title: "Chat App",
-      description: "A full stack Chat App",
-      stack: "MERN Stack , Socket Io",
+      description: "A full stack Chat App  ",
+      stack: "MERN Stack, Socket Io",
       github: "https://github.com/chinmayGhadigaonkar/Chat-App-Frontend",
       live: "https://chat-app-frontend-eight-orpin.vercel.app/login",
     },
     {
-      img: "/image/ChatApp.png",
+      img: "/image/LernUp.png",
       title: "LearnUp",
-      description: "A full stack project",
+      description: "A full stack project  ",
       stack: "MERN Stack",
       github: "https://github.com/chinmayGhadigaonkar/LearnUp",
       live: "",
