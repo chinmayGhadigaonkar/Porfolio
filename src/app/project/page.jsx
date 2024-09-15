@@ -16,6 +16,15 @@ const Projects = () => {
     },
     {
       img: "/image/INoteBook.png",
+      title: "Chat App",
+      description: "A full stack Chat App",
+      stack: "MERN Stack , Socket Io",
+      github: "https://github.com/chinmayGhadigaonkar/Chat-App-Frontend",
+      live: "https://chat-app-frontend-eight-orpin.vercel.app/login",
+    },
+    
+    {
+      img: "/image/INoteBook.png",
       title: "INotebook",
       description: "A full stack note taking app",
       stack: "MERN Stack",
