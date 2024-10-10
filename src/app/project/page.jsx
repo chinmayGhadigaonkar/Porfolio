@@ -8,8 +8,8 @@ const Projects = () => {
   const projects = [
     {
       img: "/image/EcommerceStore.png",
-      title: "E-commerce Store",
-      description: "A full stack E-commerce store",
+      title: "MERN Store",
+      description: "A full stack store",
       stack: "MERN Stack",
       github: "https://github.com/chinmayGhadigaonkar/E-Commerce-Store",
       live: "",
