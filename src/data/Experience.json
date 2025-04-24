@@ -1,17 +1,8 @@
 [
   {
-    "company": "XYZ",
+    "company": "Vighnotech",
     "duration": "2024 - present",
     "position": "Full Stack Developer"
   },
-  {
-    "company": "XYZ",
-    "duration": "Summer 2023 Internship",
-    "position": "Frontend Developer"
-  },
-  {
-    "company": "XYZ",
-    "duration": "4 months",
-    "position": "Full Stack Developer"
-  }
+  
 ]
